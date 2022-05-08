@@ -4,6 +4,10 @@ body {
 	color: black;
 }
 
+header {
+	clear: both;
+}
+
 header, main {
 	background-color: white;
 	width: 70ch;
