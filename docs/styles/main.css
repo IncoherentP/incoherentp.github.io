@@ -13,6 +13,11 @@ header, main {
 	padding: 10px;
 }
 
+.leftaside {
+	float: left;
+	width: 30ch;
+	background-color: white;
+}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Arvo", monospace;
