@@ -5,16 +5,17 @@ body {
 }
 
 header {
-	clear: both;
+	
 }
 
-header, main {
+.pagetitle, main {
 	background-color: white;
 	width: 70ch;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
 	padding: 10px;
+	clear: both;
 }
 
 .leftaside {
