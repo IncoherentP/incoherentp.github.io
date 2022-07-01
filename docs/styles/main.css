@@ -19,6 +19,11 @@ header {
 	text-decoration: none;
 }
 
+header a {
+	color: white;
+	text-decoration: none;
+}
+
 .pagetitle, main {
 }
 
