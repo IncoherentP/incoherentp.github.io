@@ -17,9 +17,9 @@ body {
 header {
 	background-color: white;
 	border: 2px solid black;
-	color: white;
+	color: purple;
 	text-decoration: none;
-	padding: 1ch;
+	padding: 0.5ch;
 }
 
 header a {
