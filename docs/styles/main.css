@@ -6,7 +6,7 @@ html {
 
 body {
 	background-color: white;
-	box-shadow: 10px 10px;
+	box-shadow: 5px 5px;
 	width: 65ch;
 	margin-left: auto;
 	margin-right: auto;
@@ -17,12 +17,11 @@ body {
 header {
 	background-color: white;
 	border: 2px solid black;
-	color: purple;
-	text-decoration: none;
 	padding: 0.5ch;
 }
 
 header a {
+	color: purple;
 	text-decoration: none;
 }
 
