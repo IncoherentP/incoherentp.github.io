@@ -1,10 +1,5 @@
-@font-face {
-	font-family: "CMU Concrete";
-	src: url("../fonts/CMU Concrete.otf")
-}
-
 html {
-	font-family: "Verdana", sans-serif;
+	font-family: Lato, sans-serif;
 	background-color: #FFA0C0;
 	color: black;
 }
@@ -36,5 +31,5 @@ header a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: "CMU Concrete", monospace;
+	font-family: "Noto Serif", monospace;
 }
