@@ -1,5 +1,5 @@
 html {
-	font-family: Verdana, sans-serif;
+	font-family: "Noto Sans Mono", monospace;
 	background-color: #FFA0C0;
 	color: black;
 }
@@ -28,8 +28,4 @@ header a {
 	float: left;
 	width: 30ch;
 	background-color: white;
-}
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: "Noto Serif", monospace;
 }
